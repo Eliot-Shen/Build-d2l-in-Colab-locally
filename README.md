@@ -13,7 +13,7 @@
 接下来打开你要使用d2l包的ipynb文件,在开头插入下面的代码就可以本地运行d2l包了! \
 弹出的申请挂用google drive的窗口都填'允许'即可 \
 path那行代码的具体路径视个人而定,如果没有改过文件夹名就是下面的代码
-"""
+```
 from google.colab import drive
 drive.mount('/content/drive')
 import os
@@ -21,4 +21,4 @@ path = "/content/drive/MyDrive/Dive-into-DL-PyTorch-master/code"
 os.chdir(path)
 !ls
 import d2lzh_pytorch as d2l
-"""
+```
