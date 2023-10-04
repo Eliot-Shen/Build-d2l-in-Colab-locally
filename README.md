@@ -6,7 +6,7 @@
 [d2l-pytorch-version](https://github.com/ShusenTang/Dive-into-DL-PyTorch) \
 再从本地将整个文件夹上传至Google Drive  
 ## Step 2
-点进文件夹,找到code子目录,再点进去找到d2lzh_pytorch子目录,其中有一个utils.py文件,将其改名为d2lzh_pytorch.py并复制移动到code目录下. \
+点进文件夹,找到code子目录,再点进去找到d2lzh_pytorch子目录,其中有一个utils.py文件,将其改名为d2lzh_pytorch.py并复制移动到code目录下. (这步是精髓,不这么做会报错)\
 如下图所示,但这里因为嫌名字过长,我将主文件夹名Dive-into-DL-PyTorch-master改为了d2l,请不要困惑.
 ![图示](https://github.com/Eliot-Shen/build-d2l-in-Colab-locally/blob/main/1.png)
 ## Step 3
