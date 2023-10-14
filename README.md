@@ -22,3 +22,4 @@ os.chdir(path)
 !ls
 import d2lzh_pytorch as d2l
 ```
+**建议:如果在colab运行d2l包时遇到某个模块出错可以去d2l讨论区找原因,大部分都是大家碰到过的问题,有对应的解决方案**
